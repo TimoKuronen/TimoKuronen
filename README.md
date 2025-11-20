@@ -1,8 +1,6 @@
-## Welcome to my github page!
+## Welcome to my GitHub!
 
-Below you can see a brief overview of my portfolio as well as some projects that are not included here.
-
-I also encourage you to check out the pinned repositories.
+Below is a brief overview of my portfolio, where each project highlights a different area of Unity/C# development—from multiplayer and analytics to optimization and game systems. Feel free to explore the pinned repositories for deeper examples.
 
 <img width="1318" height="1020" alt="portfolio-overview" src="https://github.com/user-attachments/assets/086b4b6e-eadb-4b8a-be8b-c1f8cba52c48" />
 
