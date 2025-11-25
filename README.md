@@ -4,6 +4,14 @@ Below is a brief overview of my portfolio, where each project highlights a diffe
 
 <img width="1318" height="1020" alt="portfolio-overview" src="https://github.com/user-attachments/assets/086b4b6e-eadb-4b8a-be8b-c1f8cba52c48" />
 
+## Couple of commercial projects I've worked on:
+
+[![Steam](https://cdn.cloudflare.steamstatic.com/steam/apps/3074990/header.jpg)](https://store.steampowered.com/app/3074990/)
+
+[![Trailer](https://img.youtube.com/vi/rLvccH261uk/hqdefault.jpg)](https://youtu.be/rLvccH261uk)
+  
+
+
 <!--
 **TimoKuronen/TimoKuronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
