@@ -2,7 +2,7 @@
 
 Below is a brief overview of my portfolio, where each project highlights a different area of Unity/C# development—from multiplayer and analytics to optimization and game systems. Feel free to explore the pinned repositories for deeper examples.
 
-<img width="1318" height="1020" alt="portfolio-overview" src="https://github.com/user-attachments/assets/086b4b6e-eadb-4b8a-be8b-c1f8cba52c48" />
+<img width="1447" height="1006" alt="portfolio-overview2" src="https://github.com/user-attachments/assets/28ff5dbc-5e38-43d0-8d21-0ed8a7952c0c" />
 
 ## Couple of commercial projects I've worked on:
 
@@ -10,8 +10,6 @@ Below is a brief overview of my portfolio, where each project highlights a diffe
 
 [![Trailer](https://img.youtube.com/vi/rLvccH261uk/hqdefault.jpg)](https://youtu.be/rLvccH261uk)
   
-
-
 <!--
 **TimoKuronen/TimoKuronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
